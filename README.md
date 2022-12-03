@@ -1,5 +1,5 @@
 
-# arkit2speckle
+# ar2speckle
 
 ### Sync :iphone: ARKit with any :building_construction:  CAD / BIM Application using 💙 [Speckle](https://speckle.systems/)
  
